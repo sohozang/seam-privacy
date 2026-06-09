@@ -83,7 +83,7 @@ We may update this policy from time to time. If we make material changes — for
 
 If you have questions about this policy or about Seam, email us at:
 
-**sohozang82@gmail.com**
+**hello@seamapp.io**
 
 For Apple-related issues (App Store, billing, parental controls, iCloud), please contact Apple directly.
 
